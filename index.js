@@ -11,8 +11,7 @@ app.use(cors({
    'http://localhost:3000', 
    'http://localhost:5000', 
    'http://localhost:5174',
-   'https://my-portfolio-beige-three-27.vercel.app',
-  'https://freakkyshivam.netlify.app'
+   'https://www.shauryarajput.in'
   ], 
   credentials: true
 }));
